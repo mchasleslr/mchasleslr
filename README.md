@@ -20,7 +20,7 @@ J'ai abordé ce projet avec un focus sur l'organisation de la structure, la main
 ## 🛠 Compétences
 
 - **Langages de programmation** : C, Python, TypeScript, PHP, Java
-- **Développement web** : HTML, CSS, Tailwind,React, Vue, Symfony, Django
+- **Développement web** : HTML, CSS, Tailwind, React, Vue, Symfony, Django
 - **Base de données** : PostgreSQL, MySQL
 - **Outils** : Git, GitHub, Visual Studio Code, Docker, CMake
 
