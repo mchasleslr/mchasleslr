@@ -1,6 +1,6 @@
 # Maxime Chasles
 
-Étudiant en informatique (en reconversion), je suis particulièrement interessé le **développement web** et la **conception d'applications**.
+Étudiant en informatique (en reconversion), je suis particulièrement interessé par le **développement web** et la **conception d'applications**.
 Je m'efforce d'améliorer mes compétences techniques à travers des projets personnels et académiques.
 
 > Je suis actuellement à la recherche d'un emploi en alternance dans le secteur de **La Rochelle** et alentours.
