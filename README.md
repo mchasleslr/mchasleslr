@@ -1,4 +1,4 @@
-# Maxime Chasles
+# Bienvenue !
 
 Étudiant en informatique (en reconversion), je suis particulièrement interessé par le **développement web** et la **conception d'applications**.
 Je m'efforce d'améliorer mes compétences techniques à travers des projets personnels et académiques.
